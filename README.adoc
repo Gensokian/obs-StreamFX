@@ -9,6 +9,7 @@ Upgrade your setup with several modern sources, filters, transitions and encoder
 <a href="https://crowdin.com/project/obs-stream-effects"><img src="https://badges.crowdin.net/obs-stream-effects/localized.svg" alt="Crowdin Status" /></a>
 
 </p>
+
 ++++
 
 === Support the development of StreamFX!
